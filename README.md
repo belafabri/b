@@ -56,7 +56,7 @@ My testing process was here and there, I discussed it with my manager and he was
 **Quality Assessment:** Extremely high, it's hard to differentiate what emails are for me to read and which are for my manager. This automation moves the company from a reactive to a proactive operational model with straightforward tasks for each manager. 
 
 **Screenshots:** 
-<img width="673" height="387" alt="Screenshot 2025-11-29 at 10 36 19 PM" src="https://github.com/user-attachments/assets/ed2e6e60-61de-45f3-9c87-7be8c71ecdec" />
+![Screenshot 1](assets/Image1.png)
 
 ### **Use Case 3: Internal & External Communication \- Emails** 
 
