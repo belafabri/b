@@ -41,7 +41,7 @@ My testing process was here and there, I discussed it with my manager and he was
 **Quality Assessment:** Has many improvements coming. The output is a professional, secure tool that, with a few additions, directly solves the company's primary pain point. I think quality requires a few more months of building (need more tokens). 
 
 **Screenshots:**
-![Screenshot 1](assets/<Screenshot2025-11-29at100235PM"src="https://github.com/user-attachments/assets/60b332c5-0f15-4558-bf1c-63f9e2c69b64"/>)
+![Screenshot 1](assets/<Screenshot2025-11-29at100235PM)
 
 ### **Use Case 2: Automated Expiration & Renewal Tracking**
 
