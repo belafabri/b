@@ -1,4 +1,5 @@
-# b[Fabri_Taskade.md - Izzy Fabri.md](https://github.com/user-attachments/files/23838059/Fabri_Taskade.md.-.Izzy.Fabri.md)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/qW3abWYH)
+# b
+[Fabri_Taskade.md - Izzy Fabri.md](https://github.com/user-attachments/files/23838059/Fabri_Taskade.md.-.Izzy.Fabri.md)[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/qW3abWYH)
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=21879785&assignment_repo_type=AssignmentRepo)
 [Uploading Fabri_Taskade.md - Izzy Fabri.md…
 # **Taskade: “Secured Second Brain” for Operations**
@@ -40,7 +41,7 @@ My testing process was here and there, I discussed it with my manager and he was
 **Quality Assessment:** Has many improvements coming. The output is a professional, secure tool that, with a few additions, directly solves the company's primary pain point. I think quality requires a few more months of building (need more tokens). 
 
 **Screenshots:**
-<img width="692" height="713" alt="Screenshot 2025-11-29 at 10 02 35 PM" src="https://github.com/user-attachments/assets/60b332c5-0f15-4558-bf1c-63f9e2c69b64" />
+![Screenshot 1](assets/<img width="692" height="713" alt="Screenshot 2025-11-29 at 10 02 35 PM" src="https://github.com/user-attachments/assets/60b332c5-0f15-4558-bf1c-63f9e2c69b64" />)
 
 ### **Use Case 2: Automated Expiration & Renewal Tracking**
 
@@ -157,4 +158,3 @@ This tool dove deep into collaboration since it was applicable to a current job.
 * **Comparable Tool**  
   * [Google Drive Format & Integration](https://www.google.com/drive/)   
   * [Company Website Design](https://www.coastalex.com/) 
-
