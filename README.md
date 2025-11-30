@@ -41,7 +41,7 @@ My testing process was here and there, I discussed it with my manager and he was
 **Quality Assessment:** Has many improvements coming. The output is a professional, secure tool that, with a few additions, directly solves the company's primary pain point. I think quality requires a few more months of building (need more tokens). 
 
 **Screenshots:**
-![Screenshot 1](assets/<Screenshot2025-11-29at100235PM)
+[![Screenshot 1](assets/<Screenshot2025-11-29at100235PM)](https://github.com/UCSB-TM-464-Fall-2025/shared-ai-repository-entry-izzyfabri333/commit/d9a33da3ceba2401aa581cd4e267758f1048db0f#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R43)
 
 ### **Use Case 2: Automated Expiration & Renewal Tracking**
 
